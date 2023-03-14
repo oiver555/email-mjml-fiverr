@@ -1,0 +1,206 @@
+<mjml>
+
+  <mj-head>
+    <mj-style>
+      li {
+        line-height: 1.4;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#eeeeee" width="600px">
+
+    <!-- LOGO -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column padding="0">
+        <mj-image padding="0" width="80px" src="./assets/logo.png" alt="" />
+      </mj-column>
+
+    </mj-section>
+
+    <!-- 20% -->
+    <mj-section padding="0" background-color="white">
+      <mj-column padding="0">
+        <mj-image padding="0" width="600px" src="./assets/20_percent.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Success -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="#222325" align="center" font-size="35px" font-weight="bold" font-family="helvetica">
+          Success and savings?
+        </mj-text>
+        <mj-text padding="0" font-family="Georgia" font-size="35px" font-weight="300px" color="#FF80AE" font-style="italic" align="center">
+          All yours.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Don't spend -->
+    <mj-section padding="0" background-color="white">
+      <mj-column padding="0" width="500px">
+        <mj-text font-family="helvetica neue" align="center" line-height="2">
+          Don’t spend your time wondering how much more you’ll spend after this discount expires. Go get that first project off the ground with 20% off your first order.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Just enter -->
+    <mj-section padding="0" background-color="white">
+      <mj-column>
+        <mj-text align="center" font-weight="bold">
+          Just enter this code at checkout: GETMORE20
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- BUTTON -->
+    <mj-section background-color="white">
+      <mj-column width="500px">
+        <mj-button width="150px" font-family="helvetica, arial" background-color="#1DBF73" font-weight="600">
+          Start Doing
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Valid Only -->
+    <mj-section padding="0" background-color="white">
+      <mj-column width="500px">
+        <mj-text font-family="helvetica neue" align="center" line-height="1.5">
+          Valid only for your first order.
+          <br>
+          To learn more read <a href="#" style="color:#1DBF73">here</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ICONS -->
+    <mj-section padding="0 5% 100px 5%" background-color="white">
+      <mj-column>
+        <mj-image width="50px" height="50px" src="./assets/world.png" alt="" />
+        <mj-text padding="10px 0 0 0" font-family="Georgia" font-style="italic" color="#1DBF73" align="center">
+          Global Talent
+        </mj-text>
+        <mj-text padding="5px 5%" align="center" line-height="1.5">
+          Hire anyone from anywhere at any time.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="50px" height="50px" src="./assets/target.png" alt="" />
+        <mj-text padding="10px 0 0 0" font-family="Georgia" font-style="italic" color="#1DBF73" align="center">
+          On Time, On Budget
+        </mj-text>
+        <mj-text padding="5px 5%" align="center" line-height="1.5">
+          Find services based on your budget and deadline.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image  width="50px" height="45px" padding-bottom="15px" src="./assets/hands.png" alt="" />
+        <mj-text padding="10px 0 0 0" font-family="Georgia" font-style="italic" color="#1DBF73" align="center">
+          11M+ Entrepreneurs
+        </mj-text>
+        <mj-text padding="5px 5%" align="center" line-height="1.5">
+          Your one-stop shop for all freelance services.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FINE PRINT -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="0" color="#6B6B6B">
+          Terms & Conditions:
+        </mj-text>
+
+        <mj-text padding="0" color="#6B6B6B">
+          <ol>
+            <li>All <a href="#" style="color:#1DBF73; text-decoration:none">Fiverr's Terms of Service</a> apply.</li>
+            <li>The promo code is valid only for your first purchase on Fiverr and can be used until end of day December 31 2023, 11:59pm GMT.</li>
+            <li>To receive your discount, simply enter your promo code in the checkout page.</li>
+            <li>Promo codes are limited to 1 use per user.</li>
+            <li>Promo codes may not be used or combined with any other promotion.</li>
+            <li>For orders that are comprised of one or more milestones, the promo code will apply to the first milestone only. Promo Codes do not apply to Fiverr Credits.</li>
+            <li> This promotion is subject to availability and may be withdrawn or amended without notice at any time at Fiverr’s sole discretion. </li>
+          </ol>
+        </mj-text>
+
+        <mj-text padding="0" color="#6B6B6B">
+          For any technical issues faced, please contact <a href="#" style="color:#1DBF73; text-decoration: none">Customer Support</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="10px 150px">
+      <mj-column padding="0">
+        <mj-image padding="0" width="50px" src="./assets/twitter.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image padding="0" width="50px" src="./assets/facebook.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image padding="0" width="50px" src="./assets/pinterest.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image padding="0" width="50px" src="./assets/linkedin.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image padding="0" width="50px" src="./assets/instagram.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0 100px">
+      <mj-column padding="0">
+        <mj-text>
+          <a href="#" style="text-decoration:none; color:#126F43; font-weight:bold">Privacy Policy</a>
+          <span style="color:#6b6b6b">|</span>
+          <a href="#" style="text-decoration:none; color:#126F43; font-weight:bold">Support</a>
+          <span style="color:#6b6b6b">|</span>
+          <a href="#" style="text-decoration:none; color:#126F43; font-weight:bold">Invite a Friend</a>
+          <span style="color:#6b6b6b">|</span>
+          <a href="#" style="text-decoration:none; color:#126F43; font-weight:bold">Get Inspired</a>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-section padding="0 50px">
+      <mj-column>
+        <mj-text color="#6b6b6b" line-height="1.5" align="center">
+          This email was sent to you by Fiverr International Ltd.
+          <br>
+          You are receiving this email because you signed up for Fiverr.
+          <br>
+          If you wish to unsubscribe from all future emails, please click here.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 50px">
+      <mj-column>
+        <mj-text color="#6b6b6b" line-height="1.5" align="center">
+          Fiverr International Ltd.
+          <span style="color:#6b6b6b">|</span>
+          38 Greene St.
+          <span style="color:#6b6b6b">|</span>
+          New York, NY 10013, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="25px 150px 100px 150px">
+      <mj-column padding="0">
+        <mj-image width="150px" padding="0 10px" src="./assets/appstore.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image width="150px" padding="0 10px" src="./assets/playstore.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
